@@ -8,7 +8,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "proxy": "https://rr2---sn-gjo-w43s.googlevideo.com",
   "dependencies": {
     "@apollo/client": "^3.7.11",
     "eslint": "8.36.0",
