@@ -1,0 +1,23 @@
+{
+  "name": "customa-nextapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "proxy": "https://rr2---sn-gjo-w43s.googlevideo.com",
+  "dependencies": {
+    "@apollo/client": "^3.7.11",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "graphql": "^16.6.0",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-use-downloader": "^1.2.4",
+    "swr": "^2.1.5"
+  }
+}
