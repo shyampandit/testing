@@ -23,7 +23,7 @@ export default function Aboutus() {
       </button>
       <p>Download size in bytes {size}</p>
   
-      <label for="file">Downloading progress:</label>
+      <label>Downloading progress:</label>
       <progress id="file" value={percentage} max="100" />
       <p>Elapsed time in seconds {elapsed}</p>
       {error && <p>possible error {JSON.stringify(error)}</p>}
