@@ -6,8 +6,8 @@ export default function Aboutus() {
         cancel, error, isInProgress } =
     useDownloader();
   
-  const fileUrl = "https://download.samplelib.com/mp4/sample-5s.mp4";
-  const filename = "File.pdf";
+  const fileUrl = "https://download.samplelib.com/mp4/sample-10s.mp4";
+  const filename = "File.mp4";
   
   return (
     <div className="App">
